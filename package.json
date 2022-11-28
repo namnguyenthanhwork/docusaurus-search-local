@@ -43,7 +43,7 @@
     "website",
     "website-multi-docs"
   ],
-  "packageManager": "yarn@3.2.4",
+  "packageManager": "yarn@3.3.0",
   "resolutions": {
     "@docusaurus/core": "2.2.0",
     "@docusaurus/preset-classic": "2.2.0",
